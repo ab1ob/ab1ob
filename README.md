@@ -1,89 +1,71 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A56,100:4A9EE8&height=220&section=header&text=Abdulrahim%20Obaid&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Automating%20HR%20%C2%B7%20Cutting%20Costs%20%C2%B7%20Raising%20Performance&descSize=20&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A56,100:4A9EE8&height=200&section=header&text=Abdulrahim%20Obaid&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 <div dir="rtl">
 
-<div align="center">
+## أساعد الشركات على خفض تكاليف الموارد البشرية ورفع أداء موظفيها
 
-### أساعد الشركات على خفض تكاليف الموارد البشرية ورفع أداء موظفيها
-### بأنظمة تؤتمت عمليات HR ومؤشرات أداء مبنية على البيانات والأثر
+أفعل ذلك بطريقتين: أنظمة تؤتمت عمليات القسم — الرواتب والحضور والتوظيف والإجازات والعُهد — فيُنجز العملُ نفسه بعددٍ أقل من الساعات والأخطاء، ومؤشرات أداء تُحسب من بيانات النظام مباشرة، فتقيس المخرجات والأثر بدل الانطباعات.
 
-[![barezz.com](https://img.shields.io/badge/🟦_بارز_أفراد-barezz.com-1F2A56?style=for-the-badge&labelColor=0d1230)](https://barezz.com)
-[![بارز أعمال](https://img.shields.io/badge/🟩_بارز_أعمال-نظام_حي-0E7C5A?style=for-the-badge&labelColor=0d1230)](https://github.com/ab1ob/barez-erp-overview)
-[![معرض الأعمال](https://img.shields.io/badge/📁_معرض_الأعمال-portfolio-4A9EE8?style=for-the-badge&labelColor=0d1230)](https://github.com/ab1ob/portfolio)
+أجمع بين ثماني سنوات في تأسيس وإدارة أقسام الموارد البشرية وبكالوريوس في علم البيانات. ما أبنيه يصنعه شخص يعرف القسم من الداخل، ويتقن التقنية التي تؤتمته.
 
-</div>
+## من سجلّ العمل
 
----
+- أسست قسم موارد بشرية كاملاً: أكثر من ثلاثين عقداً متوافقاً مع نظام العمل السعودي، وسياساتٍ وإجراءات وأطر جدارات
+- خفضت تكاليف تشغيل الورديات الليلية 40% بأتمتة خدمات الاستقبال في منشأة ضيافة
+- أبقيت معدل دوران الموظفين دون 5% لسنوات متتالية، ونزل في إحدى المنشآت دون 2%
+- صممت أكثر من ثلاثين مؤشر أداء تُحسب من البيانات، تُبنى عليها برامج التطوير والمكافآت
 
-## 🚀 منتجات حية بنيتها من الصفر
+## الأنظمة التي بنيتها
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 🟦 بارز أفراد
+**بارز أفراد — [barezz.com](https://barezz.com)**
 
-<a href="https://barezz.com"><img src="https://raw.githubusercontent.com/ab1ob/barez-cv-platform-overview/master/assets/barezz-home.png" alt="بارز أفراد — barezz.com" /></a>
+<a href="https://barezz.com"><img src="https://raw.githubusercontent.com/ab1ob/barez-cv-platform-overview/master/assets/barezz-home.png" alt="barezz.com"/></a>
 
-منصة عربية لمراجعة وتحسين السير الذاتية بالذكاء الاصطناعي
+مراجعة وتحسين السير الذاتية بالذكاء الاصطناعي، بالعربية ولسوق العمل السعودي
 
-**[🌐 المنصة الحية](https://barezz.com)** · **[📄 الفكرة](https://github.com/ab1ob/barez-cv-platform-overview)**
+[التفاصيل](https://github.com/ab1ob/barez-cv-platform-overview)
 
 </td>
 <td width="50%" align="center">
 
-### 🟩 بارز أعمال
+**بارز أعمال — HRIS**
 
-<a href="https://github.com/ab1ob/barez-erp-overview"><img src="https://raw.githubusercontent.com/ab1ob/barez-erp-overview/master/assets/barez-erp-login.png" alt="بارز أعمال — HRIS" /></a>
+<a href="https://github.com/ab1ob/barez-erp-overview"><img src="https://raw.githubusercontent.com/ab1ob/barez-erp-overview/master/assets/barez-erp-login.png" alt="بارز أعمال"/></a>
 
-نظام موارد بشرية سعودي متكامل متعدد الشركات — الدومين الرسمي barez.sa (قريباً)
+نظام موارد بشرية متعدد الشركات: رواتب متعددة العملات، حضور، توظيف، عُهد وخطابات
 
-**[📄 الفكرة والقدرات](https://github.com/ab1ob/barez-erp-overview)**
+[التفاصيل](https://github.com/ab1ob/barez-erp-overview)
 
 </td>
 </tr>
 </table>
 
-> 🔒 الكود المصدري للمنتجات خاص — صفحات «الفكرة» تعرض المشكلة والحل والقدرات كاملة بدون كود.
+النظامان يعملان ويخدمان مستخدمين فعليين. الكود خاص، وصفحة كل نظام تشرح بنيته وقدراته.
 
-## 📊 مشاريع البيانات وذكاء الأعمال
+## مشاريع مفتوحة — حمّلها واستخدمها
 
-| المشروع | الوصف |
-|---------|-------|
-| 📊 **لوحة موارد بشرية — Power BI** | 7 صفحات تغطي دورة حياة الموظف كاملة · 23 مقياس DAX عربي · صيغة PBIP/TMDL |
-| 📈 **نظام مؤشرات الأداء** | منظومة KPI بمنهجية «القيمة والأثر» · لوحة قيادة + دليل مؤشرات لخمسة أقسام |
-| 📗 **نظام HR المتكامل — Excel** | رواتب · حضور · إجازات · GOSI ونهاية الخدمة — متوافق مع الأنظمة السعودية |
+| المشروع | المحتوى | |
+|---------|---------|---|
+| [لوحة موارد بشرية — Power BI](https://github.com/ab1ob/barez-hr-powerbi-dashboard) | سبع صفحات تغطي دورة حياة الموظف، 23 مقياس DAX بالعربي، بصيغة PBIP المفتوحة وبيانات تجريبية لألف موظف | [⬇️ تحميل](https://github.com/ab1ob/barez-hr-powerbi-dashboard/archive/refs/heads/master.zip) |
+| [نظام مؤشرات الأداء](https://github.com/ab1ob/barez-kpi-system) | لوحة قيادة ودليل مؤشرات موثّق لخمسة أقسام — كل مؤشر يُعرَّف من المخرجات والأثر، لا من النشاط | [⬇️ تحميل](https://github.com/ab1ob/barez-kpi-system/archive/refs/heads/master.zip) |
+| [نظام HR المتكامل — Excel](https://github.com/ab1ob/hr-excel-system) | رواتب وحضور وإجازات في ملف واحد، بحسابات GOSI ونهاية الخدمة ومتابعة الإقامات | [⬇️ تحميل](https://github.com/ab1ob/hr-excel-system/archive/refs/heads/master.zip) |
 
-<div align="center">
+## الخلفية
 
-**[📁 التفاصيل واللقطات في معرض الأعمال ←](https://github.com/ab1ob/portfolio)**
+- ثماني سنوات في الموارد البشرية والتطوير المؤسسي: تأسيس أقسام، توظيف تخصصي، أطر جدارات، والتزام بنظام العمل السعودي ومنصاته (قوى، مدد، مقيم)
+- بكالوريوس علم البيانات — الجامعة الإسلامية
+- مدرب محترف معتمد CPC · ستون ساعة SHRM PDCs · مدرب مدربين TOT
 
-</div>
+**التقنيات:** Next.js · TypeScript · Supabase · Python · Flask · Power BI · DAX · SQL
 
-## 🛠️ التقنيات
+## تواصل
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,python,flask,sqlite,git,vercel&theme=dark" alt="Tech stack" />
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-1F2A56?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel_متقدم-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**شهادات مهنية:** CPC · HRIS
+[LinkedIn](https://www.linkedin.com/in/abdulrahim-obaid-273055298) · [barezz.com](https://barezz.com)
 
 </div>
 
-## 📫 تواصل
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahim_Obaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahim-obaid-273055298)
-[![barezz.com](https://img.shields.io/badge/الموقع-barezz.com-1F2A56?style=for-the-badge)](https://barezz.com)
-
-</div>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A9EE8,100:1F2A56&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A9EE8,100:1F2A56&height=90&section=footer" width="100%"/>
