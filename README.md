@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A56,100:4A9EE8&height=220&section=header&text=Abdulrahim%20Obaid&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=HR-Tech%20%C2%B7%20Data%20Analytics%20%C2%B7%20Arabic-first%20Builder&descSize=20&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A56,100:4A9EE8&height=220&section=header&text=Abdulrahim%20Obaid&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Automating%20HR%20%C2%B7%20Cutting%20Costs%20%C2%B7%20Raising%20Performance&descSize=20&descAlignY=68" width="100%"/>
 
 <div dir="rtl">
 
 <div align="center">
 
-### أبني أدوات عربية للموارد البشرية وتحليل البيانات — من الفكرة إلى منتج حي
+### أساعد الشركات على خفض تكاليف الموارد البشرية ورفع أداء موظفيها
+### بأنظمة تؤتمت عمليات HR ومؤشرات أداء مبنية على البيانات والأثر
 
 [![barezz.com](https://img.shields.io/badge/🟦_بارز_أفراد-barezz.com-1F2A56?style=for-the-badge&labelColor=0d1230)](https://barezz.com)
 [![بارز أعمال](https://img.shields.io/badge/🟩_بارز_أعمال-نظام_حي-0E7C5A?style=for-the-badge&labelColor=0d1230)](https://github.com/ab1ob/barez-erp-overview)
