@@ -79,7 +79,8 @@
 
 <div align="center">
 
-أسرع طريقة للتواصل: عبر **[barezz.com](https://barezz.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahim_Obaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahim-obaid-273055298)
+[![barezz.com](https://img.shields.io/badge/الموقع-barezz.com-1F2A56?style=for-the-badge)](https://barezz.com)
 
 </div>
 
