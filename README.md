@@ -25,7 +25,7 @@
 
 <a href="https://barezz.com"><img src="https://raw.githubusercontent.com/ab1ob/barez-cv-platform-overview/master/assets/barezz-home.png" alt="barezz.com"/></a>
 
-مراجعة وتحسين السير الذاتية بالذكاء الاصطناعي، بالعربية ولسوق العمل السعودي
+محرك ATS عربي بنيته من الصفر — يراجع السيرة ويعيد كتابتها بخوارزمية مبنية لسوق العمل السعودي
 
 [التفاصيل](https://github.com/ab1ob/barez-cv-platform-overview)
 
