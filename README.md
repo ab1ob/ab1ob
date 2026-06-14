@@ -1,71 +1,92 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A56,100:4A9EE8&height=200&section=header&text=Abdulrahim%20Obaid&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A56,100:4A9EE8&height=200&section=header&text=Abdulrahim%20Obaid&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=HR%20Systems%20%C2%B7%20Data%20Analytics%20%C2%B7%20Built%20from%20scratch&descSize=18&descAlignY=68" width="100%"/>
 
-<div dir="rtl">
+## I help companies cut HR costs and lift employee performance
 
-## أساعد الشركات على خفض تكاليف الموارد البشرية ورفع أداء موظفيها
+Two levers. **Systems that automate HR operations** — payroll, attendance, recruitment, leave, custody — so the work gets done in fewer hours with fewer errors. And **performance metrics computed straight from operational data**, measuring output and impact instead of impressions.
 
-أفعل ذلك بطريقتين: أنظمة تؤتمت عمليات القسم — الرواتب والحضور والتوظيف والإجازات والعُهد — فيُنجز العملُ نفسه بعددٍ أقل من الساعات والأخطاء، ومؤشرات أداء تُحسب من بيانات النظام مباشرة، فتقيس المخرجات والأثر بدل الانطباعات.
+I pair **8+ years building and running HR departments** with a **BSc in Data Science** — so what I build is made by someone who knows HR from the inside *and* the engineering that automates it.
 
-أجمع بين ثماني سنوات في تأسيس وإدارة أقسام الموارد البشرية وبكالوريوس في علم البيانات. ما أبنيه يصنعه شخص يعرف القسم من الداخل، ويتقن التقنية التي تؤتمته.
+## Track record
 
-## من سجلّ العمل
+| Area | Result |
+|------|--------|
+| **Building HR departments** | Set up a full HR function: 30+ Saudi-labor-law-compliant contracts, policies, competency frameworks |
+| **Cost reduction** | Cut night-shift operating costs **40%** by automating reception services |
+| **Retention** | Held turnover **under 5%** for years — under **2%** at one organization |
+| **Performance** | Designed **30+ data-driven KPIs** with linked development programs |
 
-- أسست قسم موارد بشرية كاملاً: أكثر من ثلاثين عقداً متوافقاً مع نظام العمل السعودي، وسياساتٍ وإجراءات وأطر جدارات
-- خفضت تكاليف تشغيل الورديات الليلية 40% بأتمتة خدمات الاستقبال في منشأة ضيافة
-- أبقيت معدل دوران الموظفين دون 5% لسنوات متتالية، ونزل في إحدى المنشآت دون 2%
-- صممت أكثر من ثلاثين مؤشر أداء تُحسب من البيانات، تُبنى عليها برامج التطوير والمكافآت
-
-## الأنظمة التي بنيتها
+## What I've built
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-**بارز أفراد — [barezz.com](https://barezz.com)**
+**Barez Individuals — [barezz.com](https://barezz.com)**
 
 <a href="https://barezz.com"><img src="https://raw.githubusercontent.com/ab1ob/barez-cv-platform-overview/master/assets/barezz-home.png" alt="barezz.com"/></a>
 
-محرك ATS بنيته من الصفر — يراجع السيرة ويعيد كتابتها بخوارزمية تقيس توافقها مع الوظيفة المستهدفة
+An **ATS engine I built from scratch** that tells applicants how well they match a job — the same way companies screen candidates — then rewrites the CV to raise the match.
 
-[التفاصيل](https://github.com/ab1ob/barez-cv-platform-overview)
+[Details →](https://github.com/ab1ob/barez-cv-platform-overview)
 
 </td>
 <td width="50%" align="center">
 
-**بارز أعمال — HRIS**
+**Barez Business — HRIS**
 
-<a href="https://github.com/ab1ob/barez-erp-overview"><img src="https://raw.githubusercontent.com/ab1ob/barez-erp-overview/master/assets/barez-erp-login.png" alt="بارز أعمال"/></a>
+<a href="https://github.com/ab1ob/barez-erp-overview"><img src="https://raw.githubusercontent.com/ab1ob/barez-erp-overview/master/assets/barez-erp-login.png" alt="Barez Business"/></a>
 
-نظام موارد بشرية متعدد الشركات: رواتب متعددة العملات، حضور، توظيف، عُهد وخطابات
+A **multi-tenant HR system**: multi-currency payroll, biometric attendance, recruitment, custody, and legal letters.
 
-[التفاصيل](https://github.com/ab1ob/barez-erp-overview)
+[Details →](https://github.com/ab1ob/barez-erp-overview)
 
 </td>
 </tr>
 </table>
 
-النظامان يعملان ويخدمان مستخدمين فعليين. الكود خاص، وصفحة كل نظام تشرح بنيته وقدراته.
+Both run live and serve real users. Source is private; the detail pages explain the architecture and capabilities.
 
-## مشاريع مفتوحة — حمّلها واستخدمها
+## Open projects — browse & download
 
-| المشروع | المحتوى | |
-|---------|---------|---|
-| [لوحة موارد بشرية — Power BI](https://github.com/ab1ob/barez-hr-powerbi-dashboard) | سبع صفحات تغطي دورة حياة الموظف، 23 مقياس DAX بالعربي، بصيغة PBIP المفتوحة وبيانات تجريبية لألف موظف | [⬇️ تحميل](https://github.com/ab1ob/barez-hr-powerbi-dashboard/archive/refs/heads/master.zip) |
-| [نظام مؤشرات الأداء](https://github.com/ab1ob/barez-kpi-system) | لوحة قيادة ودليل مؤشرات موثّق لخمسة أقسام — كل مؤشر يُعرَّف من المخرجات والأثر، لا من النشاط | [⬇️ تحميل](https://github.com/ab1ob/barez-kpi-system/archive/refs/heads/master.zip) |
-| [نظام HR المتكامل — Excel](https://github.com/ab1ob/hr-excel-system) | رواتب وحضور وإجازات في ملف واحد، بحسابات GOSI ونهاية الخدمة ومتابعة الإقامات | [⬇️ تحميل](https://github.com/ab1ob/hr-excel-system/archive/refs/heads/master.zip) |
+| Project | What's inside | |
+|---------|---------------|---|
+| [HR Dashboard — Power BI](https://github.com/ab1ob/barez-hr-powerbi-dashboard) | 7 pages across the employee lifecycle, 23 DAX measures, open PBIP format, demo data for 1,000 employees | [⬇️ ZIP](https://github.com/ab1ob/barez-hr-powerbi-dashboard/archive/refs/heads/master.zip) |
+| [KPI System](https://github.com/ab1ob/barez-kpi-system) | Cockpit + documented indicator guide for 5 departments — every metric defined by output and impact | [⬇️ ZIP](https://github.com/ab1ob/barez-kpi-system/archive/refs/heads/master.zip) |
+| [HR System — Excel](https://github.com/ab1ob/hr-excel-system) | Payroll, attendance, leave — with GOSI, end-of-service, and Iqama tracking | [⬇️ ZIP](https://github.com/ab1ob/hr-excel-system/archive/refs/heads/master.zip) |
 
-## الخلفية
+## Background
 
-- ثماني سنوات في الموارد البشرية والتطوير المؤسسي: تأسيس أقسام، توظيف تخصصي، أطر جدارات، والتزام بنظام العمل السعودي ومنصاته (قوى، مدد، مقيم)
-- بكالوريوس علم البيانات — الجامعة الإسلامية
-- مدرب محترف معتمد CPC · ستون ساعة SHRM PDCs · مدرب مدربين TOT
+- **8+ years** in HR & organizational development: building departments, specialized hiring, competency frameworks, Saudi labor-law compliance and its platforms (Qiwa, Mudad, Muqeem)
+- **BSc in Data Science** — Islamic University
+- **Certified Professional Coach (CPC)** · 60 SHRM PDCs · Train-the-Trainer (TOT)
 
-**التقنيات:** Next.js · TypeScript · Supabase · Python · Flask · Power BI · DAX · SQL
+**Tech:** Next.js · TypeScript · Supabase · Python · Flask · Power BI · DAX · SQL
 
-## تواصل
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/abdulrahim-obaid-273055298) · [barezz.com](https://barezz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahim_Obaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahim-obaid-273055298)
+[![barezz.com](https://img.shields.io/badge/Website-barezz.com-1F2A56?style=for-the-badge)](https://barezz.com)
+
+---
+
+<details>
+<summary><b>🇸🇦 بالعربية</b></summary>
+
+<div dir="rtl">
+
+### أساعد الشركات على خفض تكاليف الموارد البشرية ورفع أداء موظفيها
+
+بطريقتين: **أنظمة تؤتمت عمليات القسم** (الرواتب، الحضور، التوظيف، الإجازات، العهد) فيُنجَز العمل بساعات أقل وأخطاء أقل، و**مؤشرات أداء تُحسب من بيانات التشغيل** فتقيس المخرجات والأثر لا الانطباعات.
+
+أجمع **ثماني سنوات في تأسيس وإدارة أقسام الموارد البشرية** مع **بكالوريوس علم البيانات** — فما أبنيه يصنعه من يعرف القسم من الداخل ويتقن التقنية التي تؤتمته.
+
+**من سجل العمل:** أسستُ قسم HR كاملاً (30+ عقداً متوافقاً مع نظام العمل) · خفضتُ تكاليف الورديات الليلية 40% بالأتمتة · حافظتُ على دوران أقل من 5% (وأقل من 2% في إحدى المنشآت) · صممتُ 30+ مؤشر أداء من البيانات.
+
+**ما بنيته:** [بارز أفراد](https://github.com/ab1ob/barez-cv-platform-overview) (محرك ATS) · [بارز أعمال](https://github.com/ab1ob/barez-erp-overview) (نظام HRIS) — والمشاريع المفتوحة للتحميل: [داشبورد Power BI](https://github.com/ab1ob/barez-hr-powerbi-dashboard) · [نظام المؤشرات](https://github.com/ab1ob/barez-kpi-system) · [نظام HR Excel](https://github.com/ab1ob/hr-excel-system).
+
+شهادات: CPC · 60 SHRM PDCs · TOT — وبكالوريوس علم البيانات، الجامعة الإسلامية.
 
 </div>
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A9EE8,100:1F2A56&height=90&section=footer" width="100%"/>
