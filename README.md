@@ -52,6 +52,7 @@ Both run live and serve real users. Source is private; the detail pages explain 
 |---------|---------------|---|
 | [HR Dashboard — Power BI](https://github.com/ab1ob/barez-hr-powerbi-dashboard) | 7 pages across the employee lifecycle, 23 DAX measures, open PBIP format, demo data for 1,000 employees | [⬇️ ZIP](https://github.com/ab1ob/barez-hr-powerbi-dashboard/archive/refs/heads/master.zip) |
 | [KPI System](https://github.com/ab1ob/barez-kpi-system) | Cockpit + documented indicator guide for 5 departments — every metric defined by output and impact | [⬇️ ZIP](https://github.com/ab1ob/barez-kpi-system/archive/refs/heads/master.zip) |
+| [KPI → Impact (Odoo PoC)](https://github.com/ab1ob/kpi-impact-odoo-poc) | Correcting KPIs from activity to impact, proven live on an Odoo CRM I built via XML-RPC (anonymized, synthetic data) | [View](https://github.com/ab1ob/kpi-impact-odoo-poc) |
 | [HR System — Excel](https://github.com/ab1ob/hr-excel-system) | Payroll, attendance, leave — with GOSI, end-of-service, and Iqama tracking | [⬇️ ZIP](https://github.com/ab1ob/hr-excel-system/archive/refs/heads/master.zip) |
 
 ## Background
@@ -82,7 +83,7 @@ Both run live and serve real users. Source is private; the detail pages explain 
 
 **من سجل العمل:** أسستُ قسم HR كاملاً (30+ عقداً متوافقاً مع نظام العمل) · خفضتُ تكاليف الورديات الليلية 40% بالأتمتة · حافظتُ على دوران أقل من 5% (وأقل من 2% في إحدى المنشآت) · صممتُ 30+ مؤشر أداء من البيانات.
 
-**ما بنيته:** [بارز أفراد](https://github.com/ab1ob/barez-cv-platform-overview) (محرك ATS) · [بارز أعمال](https://github.com/ab1ob/barez-erp-overview) (نظام HRIS) — والمشاريع المفتوحة للتحميل: [داشبورد Power BI](https://github.com/ab1ob/barez-hr-powerbi-dashboard) · [نظام المؤشرات](https://github.com/ab1ob/barez-kpi-system) · [نظام HR Excel](https://github.com/ab1ob/hr-excel-system).
+**ما بنيته:** [بارز أفراد](https://github.com/ab1ob/barez-cv-platform-overview) (محرك ATS) · [بارز أعمال](https://github.com/ab1ob/barez-erp-overview) (نظام HRIS) — والمشاريع المفتوحة: [داشبورد Power BI](https://github.com/ab1ob/barez-hr-powerbi-dashboard) · [نظام المؤشرات](https://github.com/ab1ob/barez-kpi-system) · [تصحيح المؤشرات على Odoo](https://github.com/ab1ob/kpi-impact-odoo-poc) · [نظام HR Excel](https://github.com/ab1ob/hr-excel-system).
 
 شهادات: CPC · 60 SHRM PDCs · TOT — وبكالوريوس علم البيانات، الجامعة الإسلامية.
 
